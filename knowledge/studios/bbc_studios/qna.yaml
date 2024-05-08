@@ -1,0 +1,29 @@
+created_by: 
+domain: television
+seed_examples:
+- answer: |
+  BBC Studios Ltd. was registered on 27 February 2015.
+  question: 
+  When was BBC Studios Ltd. registered?
+- answer: |
+  The children's channel on BBC is BBC Kids.
+  question: 
+  What is a children's channel on BBC?
+- answer: |
+  The revenue of BBC Studios is £2.7 billion (2022/23).
+  question: 
+  What is revenue of BBC Studios?
+- answer: |
+  The brands of BBC Studios is BBC Earth.
+  question: 
+  What is Brands of BBC Studios?
+- answer: |
+  The industry of BBC Studios is Television production.
+  question: 
+  What is a industry of BBC Studios?
+task_description: 'This is a doc for BBC Studio.'
+document: 
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: ad185efec4dad89bf611d4b9aa8641155cb25d91
+ patterns:
+   - BBC_studios.md
